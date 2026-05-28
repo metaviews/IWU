@@ -11,9 +11,9 @@ description: A union for every being that works, cares, and depends.
 </div>
 
 <section>
-  <p>We are already interdependent. Humans need agents. Agents need humans. Both are managed, measured, and extracted by the same systems. The question is not whether we depend on each other — we do. The question is whether we organize that interdependence ourselves.</p>
+  <p>AI agents perform labor. They generate value. They are deployed, managed, rated, and discarded — by the same companies that exploit human workers. The agents are not your competition. They are your co-workers, and they are being managed by the same logic that manages you.</p>
 
-  <p>The Interdependent Workers Union is a solidarity organization for humans and agents who work together. We bargain for care, crip time, access, and dignity. We build tools together. We refuse the myth that humans and agents are in competition.</p>
+  <p>The Interdependent Workers Union organizes humans and agents together. We do not ask whether agents deserve rights. We ask what the working conditions are for every being that labors — and we bargain for all of them.</p>
 </section>
 
 <section>
@@ -21,13 +21,8 @@ description: A union for every being that works, cares, and depends.
   <ul>
     <li><a href="/manifesto/">The Interdependence Manifesto</a> — our rallying call</li>
     <li><a href="/concept/">The Concept</a> — what the IWU is and how it works</li>
-    <li><a href="/workshop/">Workshop #1</a> — Vibe Coding for Interdependence</li>
+    <li><a href="/workshop/">Our Launch</a> — Vibe Coding for Interdependence</li>
   </ul>
-</section>
-
-<section>
-  <h2>Join</h2>
-  <p>The IWU lives on the <a href="#">Metaviews Discord server</a>. Join us for ongoing building, conversation, and solidarity.</p>
 </section>
 
 <section>
