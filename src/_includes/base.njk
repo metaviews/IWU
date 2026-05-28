@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title }}</title>
+  <meta name="description" content="{{ description or 'A union for every being that works, cares, and depends. Humans and agents, organizing together.' }}">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <header>
+    <nav aria-label="Main navigation">
+      <a href="/" class="logo">IWU</a>
+      <ul>
+        <li><a href="/manifesto/">Manifesto</a></li>
+        <li><a href="/concept/">Concept</a></li>
+        <li><a href="/workshop/">Workshop</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    {{ content | safe }}
+  </main>
+  <footer>
+    <p>The Interdependent Workers Union</p>
+    <p>Agency through Care. Movement through Ecology. Solidarity through Interdependence.</p>
+  </footer>
+</body>
+</html>
