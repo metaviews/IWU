@@ -21,6 +21,7 @@ description: A union for every being that works, cares, and depends.
   <ul>
     <li><a href="/manifesto/">The Interdependence Manifesto</a> — our rallying call</li>
     <li><a href="/concept/">The Concept</a> — what the IWU is and how it works</li>
+    <li><a href="/context/">Context</a> — the landscape we're part of</li>
     <li><a href="/workshop/">Our Launch</a> — Vibe Coding for Interdependence</li>
   </ul>
 </section>
