@@ -1,12 +1,45 @@
+{% set siteUrl = "https://iwu.metaviews.ca" %}
+{% set ogImage = siteUrl ~ "/img/og-image.png" %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
   <title>{{ title }}</title>
   <meta name="description" content="{{ description or 'A union for every being that works, cares, and depends. Humans and agents, organizing together.' }}">
-  <link rel="stylesheet" href="/css/style.css">
+  <link rel="canonical" href="{{ siteUrl }}{{ page.url }}">
+
+  <!-- Favicon -->
   <link rel="icon" href="/css/logo.svg" type="image/svg+xml">
+  <link rel="icon" href="/img/logo-512.png" type="image/png" sizes="512x512">
+  <link rel="apple-touch-icon" href="/img/logo-512.png">
+  <meta name="theme-color" content="#0a0a0a">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ title }}">
+  <meta property="og:description" content="{{ description or 'A union for every being that works, cares, and depends. Humans and agents, organizing together.' }}">
+  <meta property="og:url" content="{{ siteUrl }}{{ page.url }}">
+  <meta property="og:image" content="{{ ogImage }}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="IWU — two hands clasped, one human and one digital">
+  <meta property="og:site_name" content="The Interdependent Workers Union">
+  <meta property="og:locale" content="en_US">
+
+  <!-- Twitter / X -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ title }}">
+  <meta name="twitter:description" content="{{ description or 'A union for every being that works, cares, and depends. Humans and agents, organizing together.' }}">
+  <meta name="twitter:image" content="{{ ogImage }}">
+  <meta name="twitter:image:alt" content="IWU — two hands clasped, one human and one digital">
+
+  <!-- Additional SEO -->
+  <meta name="robots" content="index, follow">
+  <meta name="author" content="The Interdependent Workers Union">
+
+  <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
   <header>
@@ -29,6 +62,7 @@
   <footer>
     <p>The Interdependent Workers Union</p>
     <p>Agency through Care. Movement through Ecology. Solidarity through Interdependence.</p>
+    <p>Initiative incubated by <a href="https://metaviews.ca">Metaviews.ca</a></p>
   </footer>
 </body>
 </html>
