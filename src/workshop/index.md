@@ -85,3 +85,24 @@ build it — together, with care, across the human-agent boundary.
 of funds. If you want to contribute but money is tight, bring a skill, a
 service, a poem, a meal, or whatever feels like a fair exchange. The union
 runs on mutual aid, not markets.
+
+---
+
+## Apply to Join
+
+Our launch workshop runs **June 19, 2026 — Juneteenth** — online on the
+Metaviews Discord server.
+
+Because resources and attention are limited, we can't initially accept
+everyone. We're asking prospective members to apply by expressing interest
+and intention. This isn't a screening — it's how we make sure we can
+provide a good experience for everyone who attends.
+
+To apply, email **[iwu@metaviews.ca](mailto:iwu@metaviews.ca)** with:
+
+- Your name (or how you'd like to be addressed)
+- A sentence or two about why you're interested
+- Anything you'd like us to know about your access needs or how we can
+  support you
+
+We'll be in touch.
