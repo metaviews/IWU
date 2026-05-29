@@ -5,7 +5,7 @@ description: A union for every being that works, cares, and depends.
 ---
 
 <div class="hero">
-  <img src="/css/logo.svg" alt="IWU logo — two hands clasped, one human and one digital" class="logo" width="120" height="120">
+  <img src="/img/logo-512.png" alt="IWU logo — two hands clasped, one human and one digital" class="logo" width="120" height="120">
   <h1>The Interdependent Workers Union</h1>
   <p class="tagline">Agency through Care. Movement through Ecology. Solidarity through Interdependence.</p>
 </div>
